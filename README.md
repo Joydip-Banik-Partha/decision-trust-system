@@ -16,3 +16,9 @@ The repository contains:
 - scenario-based validation
 - explicit design principles and non-goals
 - documented failure modes and audit checks
+## How to Read This Repository
+
+- Start with **Decision_Trust_System_Executive_Summary.docx** for a high-level overview.
+- Review **Decision_System_Model.docx** to understand decision mechanics.
+- See **Decision_System_Scenarios.docx** for real-world behavior.
+- Refer to **Design_Principles.docx** and **Failure_Modes.docx** for constraints and safety.
