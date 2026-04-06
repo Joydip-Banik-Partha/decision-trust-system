@@ -1,0 +1,18 @@
+# Decision Trust System
+
+This repository documents the design of a trust-based decision system that operates under uncertainty.
+
+The system avoids binary decisions and prioritizes:
+- gradual trust changes
+- explainable outcomes
+- calm behavior under noisy or incomplete signals
+- safe failure and auditability
+
+This is not a detection engine or a blocking system.
+It is a decision framework designed to support responsible, proportional actions over time.
+
+The repository contains:
+- a formal decision model
+- scenario-based validation
+- explicit design principles and non-goals
+- documented failure modes and audit checks
